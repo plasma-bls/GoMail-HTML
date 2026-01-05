@@ -10,7 +10,7 @@ Facilitates the process of sending emails simultaneously with HTML5-Integrated c
 
 ## ✨ Features
 
-- - Sends emails simultaneously
+- Sends emails simultaneously
 - Highly customizable
 - High performance
 - Cross-Platform
