@@ -29,13 +29,7 @@ Follow these simple steps to get started:
 git clone https://github.com/plasma-bls/GoMail-HTML
 
 # Navigate to the project directory
-cd gomail-html
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
+cd GoMail-HTML/
 ```
 
 ## 💡 Usage
