@@ -32,10 +32,21 @@ git clone https://github.com/plasma-bls/GoMail-HTML
 cd GoMail-HTML/
 ```
 
+## 🛠️ Configuration
+ 
+Replace the values in the .JSON config file with your SMTP host, your username and password;
+after that you insert the receiver/s, -- if there are more than 1 receivers, they must be separated by a ","
+otherwise, it will not work
+
+### NOTE: The password field doesn't contain the actual account password. Instead, it uses an App-Specific Password (ASP) or a Static Token, you may create one on your SMTP Host's account. 
+
+
+
+
 ## 💡 Usage
 
 ```bash
-// Usage Example
+# Usage Example
 go run main.go
 ```
 
