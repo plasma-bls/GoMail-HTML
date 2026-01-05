@@ -6,9 +6,7 @@ A lightweight SMTP client in Go for sending dynamic HTML5 emails with external t
 
 ## 💡 Why should you care?
 
-Facilitates the process of sending emails simultaneously with HTML5-Integrated content. Can be used for (Spear)Phishing thanks to 
-it's simultaneous-email-send function and an highly customizable HTML markup language integration that can be fundamental for 
-creating "believable" fake emails. (:
+Facilitates the process of sending emails simultaneously with HTML5-Integrated content. From a cybersecurity perspective, this tool can simulate Spear Phishing attacks. Because it supports simultaneous delivery and custom HTML injection, it can be used to test organizational defenses by creating highly convincing, personalized emails that mimic legitimate services.
 
 ## ✨ Features
 
