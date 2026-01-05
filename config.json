@@ -1,0 +1,11 @@
+{
+    "DISCLAIMER": "READ INSTRUCTIONS BEFORE CHANGING ANY VALUE",
+    "smtphost": "",
+    "smtport": "587",
+    "username": "",
+    "password": "",
+    "subject": "Subject: SUBJECT-HERE\n",
+    "mime": "MIME-version: 1.0;\nContent-Type: text/html; charset=\"UTF-8\";\n\n",
+    "html": "email.html",
+    "emails": "" 
+}
