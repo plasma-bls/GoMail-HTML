@@ -38,7 +38,7 @@ Replace the values in the .JSON config file with your SMTP host, your username a
 after that you insert the receiver/s, -- if there are more than 1 receivers, they must be separated by a ","
 otherwise, it will not work
 
-### NOTE: The password field doesn't contain the actual account password. Instead, it uses an App-Specific Password (ASP) or a Static Token, you may create one on your SMTP Host's account. 
+NOTE: The password field doesn't contain the actual account password. Instead, it uses an App-Specific Password (ASP) or a Static Token, you may create one on your SMTP Host's account. 
 
 
 
