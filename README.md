@@ -77,5 +77,4 @@ This project is licensed under the Unlicense License - see the [LICENSE](LICENSE
 
 ---
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
 <p>If GoMail-HTML is useful to you, leave a star! <img src="https://i.postimg.cc/pTH5R15s/star-2b50.webp" width="30" height="30";"></p>
