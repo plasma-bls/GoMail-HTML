@@ -73,7 +73,7 @@ This project is licensed under the Unlicense License - see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Plasma**
-- GitHub: [https://github.com/plasma-bls/GoMail-HTML](https://github.com/plasma-bls/GoMail-HTML)
+- GitHub: [https://github.com/plasma-bls/](https://github.com/plasma-bls/)
 
 ---
 
