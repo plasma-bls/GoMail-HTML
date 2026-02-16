@@ -1,26 +1,26 @@
-# 📝 GoMail-HTML
+#  GoMail-HTML
 
-## 📋 What is it?
+##  What is it?
 
 A lightweight SMTP client in Go for sending dynamic HTML5 emails with external template support.
 
-## 💡 Why should you care?
+##  Why should you care?
 
 Facilitates the process of sending emails simultaneously with HTML5-Integrated content. From a cybersecurity perspective, this tool can simulate Spear Phishing attacks. Because it supports simultaneous delivery and custom HTML injection, it can be used to test organizational defenses by creating highly convincing, personalized emails that mimic legitimate services.
 
-## ✨ Features
+##  Features
 
 - Sends emails simultaneously
 - Highly customizable
 - High performance
 - Cross-Platform
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Golang Up-to-date
 - Basic System Requirements
 
-## ⚙️ Installation
+##  Installation
 
 Follow these simple steps to get started:
 
@@ -32,7 +32,7 @@ git clone https://github.com/plasma-bls/GoMail-HTML
 cd GoMail-HTML/
 ```
 
-## 🛠️ Configuration
+##  Configuration
  
 Replace the values in the .JSON config file with your SMTP host, your username and password;
 after that you insert the receiver/s, -- if there are more than 1 receivers, they must be separated by a ","
@@ -43,34 +43,34 @@ otherwise, it will not work
 
 
 
-## 💡 Usage
+##  Usage
 
 ```bash
 # Usage Example
 go run main.go
 ```
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - Command line integration with flags (eg. "--config /tmp/html.html")
 
-## 🤝 Contributing
+##  Contributing
 
 We love contributions! Here's how you can help:
 
-1. 🍴 Fork the repository
-2. 🌟 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔃 Open a Pull Request
+1.  Fork the repository
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
 Please feel free to submit issues and enhancement requests!
 
-## 📄 License
+##  License
 
 This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Plasma**
 - GitHub: [https://github.com/plasma-bls/](https://github.com/plasma-bls/)
